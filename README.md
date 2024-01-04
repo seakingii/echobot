@@ -57,7 +57,7 @@ To start the minting process, execute the following command in your terminal:
 node inscribeBot.js
 ```
 
-The script will mint NFTs sequentially until 100 mints are completed, and it will log the transaction hashes and block numbers for each mint. It will also output the total time taken to complete the minting.
+The script will mint Smart Inscription sequentially until 100 mints are completed, and it will log the transaction hashes and block numbers for each mint. It will also output the total time taken to complete the minting.
 
 ## Important Notes
 
